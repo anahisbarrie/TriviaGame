@@ -1,0 +1,25 @@
+.Question {
+    text-align: center;
+    margin-top: 20px;
+    background: lightpink;
+    
+}
+
+.btn {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+p {
+    background: lightyellow;
+
+}
+
+body {
+    background: blue;
+
+}
+
+.container{
+    position: relative;
+    
+}
